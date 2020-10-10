@@ -1,4 +1,4 @@
-package io.moster.observer;
+package io.moster.observer.custom;
 
 public class ForecastDisplay implements Observer, DisplayElement {
     private final Subject weatherData;
